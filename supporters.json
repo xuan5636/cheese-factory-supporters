@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": 1791297460,
+  "updated": 1791314410,
   "developers": [
     {
       "displayName": "一只轩吖"
@@ -26,6 +26,11 @@
       "displayName": "沈局鼠鼠",
       "tier": 3,
       "expires": 1796567636
+    },
+    {
+      "displayName": "櫻霧尋道",
+      "tier": 2,
+      "expires": 1793992810
     }
   ]
 }
