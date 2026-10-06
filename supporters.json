@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": 1791270418,
+  "updated": 1791275201,
   "supporters": [
     {
       "displayName": "莱米Limee",
@@ -11,6 +11,11 @@
       "displayName": "一只轩吖",
       "tier": 3,
       "expires": 1793948818
+    },
+    {
+      "displayName": "無糖可乐",
+      "tier": 3,
+      "expires": 1793953601
     }
   ]
 }
